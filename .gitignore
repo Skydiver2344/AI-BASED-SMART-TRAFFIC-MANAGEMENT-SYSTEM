@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML
+*.h5
+*.keras
+*.pt
+*.pth
+*.onnx
+
+# Data
+data/raw/*
+data/processed/*
+
+# IDE
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
