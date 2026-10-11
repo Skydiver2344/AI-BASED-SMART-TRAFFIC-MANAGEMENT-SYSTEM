@@ -27,3 +27,9 @@ data/processed/*
 # OS
 Thumbs.db
 .DS_Store
+
+#videos
+.mp4
+
+#YOLOv8
+.pt
